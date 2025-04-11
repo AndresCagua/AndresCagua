@@ -84,7 +84,7 @@ Universidad Politécnica Salesiana
 
 ---
 
-> "La resolución de problemas complejos es la puerta de entrada a soluciones innovadoras."  
-> — **Andrés Cagua**
+> "Al buscar lo imposible el hombre siempre ha realizado y reconocido lo posible. Y aquellos que sabiamente se han limitado a lo que creían posible, jamás han dado un solo paso adelante."  
+> — **Mijail Bakunin**
 
 
