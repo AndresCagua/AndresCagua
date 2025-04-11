@@ -50,6 +50,8 @@ Apasionado por el backend, las bases de datos y el análisis de datos, con un fu
 - 🔹 Mantenimiento y actualización de una tienda virtual desarrollada en WordPress.
 - 🔹 Desarrollo de una aplicación web para gestión de restaurantes (Frontend en Angular y Backend en SpringBoot).
 
+![https://github.com/appsInfinity2019?tab=overview&from=2023-12-01&to=2023-12-31](./actividad_Inapps.png)
+
 ---
 
 ## 🎓 Formación Académica
