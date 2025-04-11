@@ -1,7 +1,9 @@
-## Andrés Cagua ⚡
 
 <!--
 **AndresCagua/AndresCagua** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+## Andrés Cagua ⚡
+
 
 Here are some ideas to get you started:
 
@@ -14,3 +16,75 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# Andrés Cagua
+
+## 👨‍💻 Desarrollador DWH | Analista de Datos
+
+📍 **Ubicación:** Cuenca, Ecuador  
+📞 **Teléfono:** +593 983105699  
+📧 **Correo:** [andrescagua-88@hotmail.com](mailto:andrescagua-88@hotmail.com)  
+👤 **LinkedIn:** [linkedin.com/in/jacch](https://www.linkedin.com/in/jacch/)
+
+---
+
+## 💭 Sobre mí
+
+Desarrollador con dos años de experiencia en tecnologías como WordPress, Angular, SpringBoot, MySQL, OracleSQL y PostgreSQL. Actualmente me desempeño como Desarrollador DWH, donde he fortalecido habilidades en análisis de datos, Shell Scripts y PL/SQL.
+
+Apasionado por el backend, las bases de datos y el análisis de datos, con un fuerte enfoque en la resolución de problemas complejos y la generación de soluciones innovadoras.
+
+---
+
+## 💼 Experiencia Laboral
+
+### 👨‍💻 Desarrollador DWH  
+**Viamatica**  
+*Septiembre 2023 - Presente*
+- 🔹 Desarrollo de procesos y funciones en PL/SQL para bases de datos Oracle.
+- 🔹 Creación de scripts Bash para comunicación y procedimientos en Oracle.
+
+### 👨‍💻 Desarrollador Junior  
+**Inapps**  
+*Enero 2023 - Agosto 2023*
+- 🔹 Mantenimiento y actualización de una tienda virtual desarrollada en WordPress.
+- 🔹 Desarrollo de una aplicación web para gestión de restaurantes (Frontend en Angular y Backend en SpringBoot).
+
+---
+
+## 🎓 Formación Académica
+
+**Ingeniería Electrónica**  
+Universidad Politécnica Salesiana
+
+---
+
+## 🔧 Habilidades
+
+- ✨ **SQL** / **PLSQL**
+- ✨ **Shell Scripts Linux**
+- ✨ **JavaScript**
+- ✨ **Python**
+- ✨ **Angular**
+- ✨ **Java**
+- ✨ **Bases de Datos** (MySQL, OracleSQL, PostgreSQL)
+- ✨ **DWH / Big Data**
+- ✨ **Análisis de Datos**
+
+---
+
+## 🛠️ Tecnologías y Herramientas
+
+![Oracle](https://img.shields.io/badge/Oracle-DBA317?style=for-the-badge&logo=oracle&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+---
+
+> "La resolución de problemas complejos es la puerta de entrada a soluciones innovadoras."  
+> — **Andrés Cagua**
+
+
