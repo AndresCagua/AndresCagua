@@ -42,6 +42,12 @@ Last Updated: Friday, April 11th, 2025, 10:53:56 PM
 
 ---
 
+### :zap: Mis últimos videos
+<!-- YOUTUBE:START -->
+<!-- YOUTUBE:END -->
+
+---
+
 ## 💭 Sobre mí
 
 Desarrollador con dos años de experiencia en tecnologías como WordPress, Angular, SpringBoot, MySQL, OracleSQL y PostgreSQL. Actualmente me desempeño como Desarrollador DWH, donde he fortalecido habilidades en análisis de datos, Shell Scripts y PL/SQL.
