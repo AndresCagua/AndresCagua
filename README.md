@@ -21,10 +21,16 @@ Here are some ideas to get you started:
 
 ## 👨‍💻 Desarrollador DWH | Analista de Datos
 
-📍 **Ubicación:** Cuenca, Ecuador  
+📌 **Ubicación:** Cuenca, Ecuador  
 📞 **Teléfono:** +593 983105699  
 📧 **Correo:** [andrescagua-88@hotmail.com](mailto:andrescagua-88@hotmail.com)  
 👤 **LinkedIn:** [linkedin.com/in/jacch](https://www.linkedin.com/in/jacch/)
+
+---
+
+### :zap: Actividad reciente
+
+
 
 ---
 
