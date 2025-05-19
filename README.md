@@ -44,11 +44,11 @@ Last Updated: Monday, May 19th, 2025, 12:52:09 AM
 
 ### :zap: Mis últimos videos
 <!-- YOUTUBE:START -->
+- [Configuración NeoVim v0.10.0](https://www.youtube.com/watch?v=Cn_QsInEvHo)
 - [Apache Hive: Creación de Tablas, Carga de Datos y Particionado &lpar;Con Bash Script&rpar;](https://www.youtube.com/watch?v=LfDrM8bTyFI)
 - [📌 &quot;Instalación de Hadoop y Hive en AlmaLinux 8 + Creación de BD, Tabla y Carga de Datos 🚀&quot;](https://www.youtube.com/watch?v=tQQX3mZkDDI)
 - [Configuración de Oracle Enterprise Manager Express &lpar;versión EMX, Adobe Flash&rpar; en Oracle 19](https://www.youtube.com/watch?v=pmLDE7O1CWk)
 - [Dashboard_LookerStudio_Curso_Data_Analytics](https://www.youtube.com/watch?v=2Kl1g7kqXsc)
-- [Pagina Web con Java &lpar;CRUD Completo&rpar;](https://www.youtube.com/watch?v=L7YWLR_9g5U)
 <!-- YOUTUBE:END -->
 
 ---
