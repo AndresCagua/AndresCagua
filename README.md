@@ -44,11 +44,11 @@ Last Updated: Sunday, June 1st, 2025, 7:07:41 PM
 
 ### :zap: Mis últimos videos
 <!-- YOUTUBE:START -->
+- [logging.sh: Logging estructurado y multinivel para Bash inspirado en Python](https://www.youtube.com/watch?v=BCcEeg3PoLw)
 - [Migración Automática de PostgreSQL a Netezza con Python | ETL Robusto, Validado y Auditable](https://www.youtube.com/watch?v=67fV1e45WqM)
 - [Configuración NeoVim v0.10.0](https://www.youtube.com/watch?v=Cn_QsInEvHo)
 - [Apache Hive: Creación de Tablas, Carga de Datos y Particionado &lpar;Con Bash Script&rpar;](https://www.youtube.com/watch?v=LfDrM8bTyFI)
 - [📌 &quot;Instalación de Hadoop y Hive en AlmaLinux 8 + Creación de BD, Tabla y Carga de Datos 🚀&quot;](https://www.youtube.com/watch?v=tQQX3mZkDDI)
-- [Configuración de Oracle Enterprise Manager Express &lpar;versión EMX, Adobe Flash&rpar; en Oracle 19](https://www.youtube.com/watch?v=pmLDE7O1CWk)
 <!-- YOUTUBE:END -->
 
 ---
